@@ -1,0 +1,1 @@
+North is 0 degrees, south is 180.
